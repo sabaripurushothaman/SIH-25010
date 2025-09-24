@@ -56,3 +56,4 @@ The potential impact of AgriSage on people is significant, as it empowers farmer
 
 ## Research and References
 Research from organizations like the FAO, World Bank, and IFPRI shows that digital farming solutions improve yields, cut resource use, and support smallholder farmers in adapting to climate change. Studies in agricultural journals highlight how IoT-based systems boost efficiency, while industry reports, such as those from McKinsey, emphasize the economic and sustainability benefits of AgriTech, reinforcing the value of platforms like AgriSage.
+<a href=" https://www.researchgate.net/publication/258789844_A_Comprehensive_Study_of_Application_of_Decision_Support_System_in_Agriculture_in_Indian_Context?utm_source=chatgpt.com">click to view reference</a>
